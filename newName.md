@@ -6,4 +6,4 @@ NEWWWW
 
 newww
 
-TEST CONFLICT
+new conflict
